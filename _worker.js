@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'https://sydney.bing.com';
+const TELEGRAPH_URL = 'https://www.google.com';
 
 
 export default {
